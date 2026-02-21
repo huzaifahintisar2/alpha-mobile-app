@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Forex Pros",
+    "slug": "forex-pros-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0b1118"
+    },
+
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.huzaifah97.forexprosapp",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-icon.png",
+        "backgroundColor": "#0b1118"
+      }
+    },
+
+    "plugins": [
+      "expo-notifications",
+      "@react-native-community/datetimepicker"
+    ],
+
+    "extra": {
+      "eas": {
+        "projectId": "5fb60463-5013-46a2-998b-078d75315fb2"
+      }
+    },
+
+    "owner": "huzaifah97"
+  }
+}
