@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBuWRuXNPTbTEEDhSSO1lwAxuzc1IG64aA",
+  apiKey: "YOUR_API_KEY",
   authDomain: "forexprosapp.firebaseapp.com",
   projectId: "forexprosapp",
   storageBucket: "forexprosapp.firebasestorage.app",
@@ -12,3 +12,4 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);
+
