@@ -4,7 +4,7 @@
 ![Home Screen](screenshots/home.jpg)
 
 ### 📊 Running Signals
-![Running Signals](screenshots/running_signal.jpg)
+![Running Signals](running_signal.jpg)
 
 ### 📜 Signal History
 ![Signal History](screenshots/signal_history.jpg)
