@@ -1,16 +1,16 @@
 ## 📱 App Screenshots
 
-### 🏠 Home Screen
-![Home Screen](home.jpg)
+### 🏠 Home
+<img src="home.jpg" width="250"/>
 
-### 📊 Running Signals
-![Running Signals](running_signal.jpg)
+### 📊 Running
+<img src="running_signal.jpg" width="250"/>
 
-### 📜 Signal History
-![Signal History](signal_history.jpg)
+### 📜 History
+<img src="signal_history.jpg" width="250"/>
 
-### 📈 Market Analysis
-![Market Analysis](analysis.jpg)
+### 📈 Analysis
+<img src="analysis.jpg" width="250"/>
 
-### 🔔 Signal Popup
-![Signal Popup](signal_pop_up.jpg)
+### 🔔 Popup
+<img src="signal_pop_up.jpg" width="250"/>
