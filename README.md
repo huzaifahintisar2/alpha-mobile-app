@@ -15,6 +15,24 @@ This project demonstrates full-stack mobile development skills including fronten
 • Scalable project structure suitable for production apps  
 
 ---
+## 📱 App Screenshots
+
+### 🏠 Home
+<img src="screenshots/home.jpg" width="250"/>
+
+### 📊 Running
+<img src="screenshots/running_signal.jpg" width="250"/>
+
+### 📜 History
+<img src="screenshots/signal_history.jpg" width="250"/>
+
+### 📈 Analysis
+<img src="screenshots/analysis.jpg" width="250"/>
+
+### 🔔 Popup
+<img src="screenshots/signal_pop_up.jpg" width="250"/>
+
+---
 
 ## Tech Stack
 
